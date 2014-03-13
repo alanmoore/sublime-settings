@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Theme - Aqua/Color Schemes/Tomorrow Night Aqua.tmTheme",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"JSLint",
+		"Vintage"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"JSLint",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"sublimelint",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Aqua"
+	]
+}
